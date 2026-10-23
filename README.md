@@ -9,7 +9,7 @@
 - [AWSKRUG Web Site](http://www.awskr.org/)
 - [AWSKRUG Slack Channel Link](http://awskrug.slack.com)
 
-> 이 모임은 2017년부터 이어진 AWSKRUG 구디(구로디지털) 모임이 **'AWSKRUG 커넥트 #connect 소모임'**으로 이름을 바꿔 새롭게 시작하는 모임입니다.
+> 이 모임은 2017년부터 이어진 AWSKRUG 구디(구로디지털) 모임이 'AWSKRUG 커넥트 #connect 소모임'으로 이름을 바꿔 2026년 10월부터 새롭게 시작하는 모임입니다.
 > 회차는 커넥트로 1st부터 새로 시작하며, 구디 시절(1st ~ 70th)의 기록은 [gudi-group](https://github.com/awskrug/gudi-group)에서 볼 수 있습니다.
 
 # 모임 소개
