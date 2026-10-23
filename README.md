@@ -3,7 +3,7 @@
 
 <img src="awskrug_connect_logo.png" width="350"/>
 
-- since 2017
+- since 2026.10
 - [AWSKRUG Facebook Link](https://www.facebook.com/groups/awskrug/)
 - [AWSKRUG Meetup Link](https://www.meetup.com/ko-KR/awskrug/)
 - [AWSKRUG Web Site](http://www.awskr.org/)
